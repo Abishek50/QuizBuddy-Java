@@ -14,7 +14,6 @@ This project focuses on application logic rather than UI polish.
 ## Technologies Used
 - Java
 - Android Studio
-- SQLite
 - Gradle
 
 ## What This Project Demonstrates
@@ -31,3 +30,8 @@ This project focuses on application logic rather than UI polish.
 ## Purpose
 This project was created as a learning exercise to strengthen Java skills
 and understand how Android apps manage data locally.
+
+## Code Overview
+Key files of interest:
+- MainActivity.java – application entry point
+- Quiz / Question classes – core application logic
