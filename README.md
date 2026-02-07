@@ -37,6 +37,6 @@ Key files of interest:
 - Quiz / Question classes – core application logic
 
 #Screenshots
-![Main Screen](Screenshots/Homepage.png)
+![Main Screen](Screenshots/Home_page.png)
 ![Main Screen](Screenshots/Questions.png)
 
