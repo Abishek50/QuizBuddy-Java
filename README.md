@@ -36,7 +36,7 @@ Key files of interest:
 - MainActivity.java – application entry point
 - Quiz / Question classes – core application logic
 
-#Screenshots
+## Screenshots
 ![Main Screen](Screenshots/Home_page.png)
 ![Main Screen](Screenshots/Questions.png)
 
