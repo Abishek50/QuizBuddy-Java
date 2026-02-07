@@ -5,6 +5,7 @@ object-oriented programming, and local data persistence.
 
 This project focuses on application logic rather than UI polish.
 
+
 ## Features
 - Multiple quiz categories
 - User score tracking
@@ -40,3 +41,12 @@ Key files of interest:
 ![Main Screen](Screenshots/Home_page.png)
 ![Main Screen](Screenshots/Questions.png)
 
+## Team Contributions
+
+This project was developed as part of a university course in a small team.
+The codebase was uploaded to GitHub after completion for documentation
+and portfolio purposes.
+
+- Abishek — application logic, database integration, and GitHub publication
+- Shyamal — UI layout and screen design
+- Sashen — quiz content and testing
