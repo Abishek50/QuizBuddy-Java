@@ -35,3 +35,6 @@ and understand how Android apps manage data locally.
 Key files of interest:
 - MainActivity.java – application entry point
 - Quiz / Question classes – core application logic
+
+#Screenshots
+![Main Screen](Screenshots/Home page.png , Questions.png)
